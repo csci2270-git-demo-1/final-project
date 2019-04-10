@@ -99,7 +99,7 @@ class BST{
 
         // This calls the destroyNode().
         ~BST();
-
+        //Missed a few comments. adding them here 
         // Prints the tree in a 2D fashion. This function calls print2DUtilHelper().
         void print2DUtil(int space);
 
